@@ -1,0 +1,30 @@
+[submodule "revplay-user-service"]
+	path = revplay-user-service
+	url = https://github.com/Dharam8218/revplay-user-service.git
+[submodule "revplay-catalog-service"]
+	path = revplay-catalog-service
+	url = https://github.com/Dharam8218/revplay-catalog-service.git
+[submodule "revplay-playlists-service"]
+	path = revplay-playlists-service
+	url = https://github.com/Dharam8218/revplay-playlists-service.git
+[submodule "revplay-playback-service"]
+	path = revplay-playback-service
+	url = https://github.com/Dharam8218/revplay-playback-service.git
+[submodule "revplay-favorites-service"]
+	path = revplay-favorites-service
+	url = https://github.com/Dharam8218/revplay-favorites-service.git
+[submodule "revplay-analytics-service"]
+	path = revplay-analytics-service
+	url = https://github.com/Dharam8218/revplay-analytics-service.git
+[submodule "revplay-gateway-service"]
+	path = revplay-gateway-service
+	url = https://github.com/Dharam8218/revplay-gateway-service.git
+[submodule "revplay-eureka-server"]
+	path = revplay-eureka-server
+	url = https://github.com/Dharam8218/revplay-eureka-server.git
+[submodule "revplay-config-server"]
+	path = revplay-config-server
+	url = https://github.com/Dharam8218/revplay-config-server.git
+[submodule "revplay-security"]
+	path = revplay-security
+	url = https://github.com/Dharam8218/revplay-security.git
